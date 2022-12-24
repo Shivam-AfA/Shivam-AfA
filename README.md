@@ -5,6 +5,8 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Shivam-Afa.visitor-badge.issue.1">
 </p>
 
+- 🏫 Engineered at **Dr. B. R. Ambedkar National Institute of Technology, Jalandhar**
+
 - 🌱 I’m currently learning **Docker, Kubernetes, Go, etc.**
 
 - 💬 Ask me about **Web Development, starting out in Open Source**
