@@ -1,13 +1,13 @@
 <h1 align="center">Hi 😎, I'm Shivam Sood</h1>
 <h3 align="center">Web Developer and Open Source Contributor</h3>
+
+<br>
 	
 - 🏫 Engineered at **Dr. B. R. Ambedkar National Institute of Technology, Jalandhar**
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Go, etc.**
 
 - 💬 Ask me about **Web Development, starting out in Open Source**
-
-- 📫 Reach me at **shivamsood634@gmail.com**
 
 
 	
